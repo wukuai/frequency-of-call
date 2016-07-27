@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/ico">
+        <file>hf64.ico</file>
+    </qresource>
+</RCC>
